@@ -10,4 +10,6 @@ Improvised database in text file which automatically creates if not exists
 
 To navigate in program just type the number of option you want to use
 
+[![solarized dualmode]https://github.com/illyaprimak/TextMenu/blob/master/TextMenu1.JPG?raw=true)(#features)
+
 Enjoy!
