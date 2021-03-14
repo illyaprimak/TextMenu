@@ -10,6 +10,17 @@ Improvised database in text file which automatically creates if not exists
 
 To navigate in program just type the number of option you want to use
 
-[![solarized dualmode]https://github.com/illyaprimak/TextMenu/blob/master/TextMenu1.JPG?raw=true)(#features)
+![Main menu](/TextMenu1.JPG?raw=true)
+
+
+(In start menu to start work you could press "2" for information about program)
+
+![Help](/TextMenu2.JPG?raw=true)
+
+One more screen (with admin functions) : 
+
+
+![AdminMenu](/TextMenu3.JPG?raw=true)
+
 
 Enjoy!
