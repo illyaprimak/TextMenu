@@ -1,2 +1,3 @@
-from Domain import menu
+from UseCases import menu
+
 menu.initMenu()

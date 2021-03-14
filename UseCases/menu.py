@@ -161,7 +161,7 @@ def allUsersList(User):
 def addNewUser(User):
     n = raw_input("Enter username for new user: ")
     newUser = user.User(n, "")
-    data.append(newUser)
+    data.append([newUser.login,newUser.password,newUser.isAdmin,newUser.isBlocked,newUser.passwordRestriction])
     print("User with username : " + n + " successfully added")
     authorizedAdmin(User)
 

@@ -1,5 +1,8 @@
 def initDb():
-    repository = open("repository_db.txt", "r+")
+    try:
+        repository = open("repository_db.txt", "r+")
+    except FileNotFoundError:
+        repository = open("repository_db.txt", "w+")
     body = repository.readlines()
     data = []
     for line in body:
